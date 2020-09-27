@@ -40,12 +40,8 @@ button
   list-style: none;
   font-size: 3em;
   padding: 0px;
-  margin: 0px;
-}
-
-#numSort
-{
-  display: inline;
+  margin-right: 10px;
+  display: flex;
 }
 
 p
